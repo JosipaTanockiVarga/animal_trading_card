@@ -9,7 +9,7 @@ body {
 
 .card {
 	background-color: #329999;
-	border: 1px solid #2F4F4F;
+	border: 1px solid #2f4f4f;
 	border-radius: 10px;
 	padding: 1px;
 }
@@ -22,13 +22,13 @@ img {
 	width: 300px;
 	padding: 2%;
 	margin-bottom: 2%;
-	border: 1px solid #2F4F4F;
+	border: 1px solid #2f4f4f;
 	border-radius: 15px 50px;
 }
 
 .about {
 	padding: 2%;
-	border: 1px solid #2F4F4F;
+	border: 1px solid #2f4f4f;
 	border-radius: 10px;
 }
 
