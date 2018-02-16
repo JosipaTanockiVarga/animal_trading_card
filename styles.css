@@ -1,0 +1,45 @@
+/* add your CSS here */
+body {
+	padding: 2%;
+	width: 320px;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 0.5em;
+	line-height: 15px;
+}
+
+.card {
+	background-color: #329999;
+	border: 1px solid #2F4F4F;
+	border-radius: 10px;
+	padding: 1px;
+}
+
+h3 {
+	text-align: center;
+}
+
+img {
+	width: 300px;
+	padding: 2%;
+	margin-bottom: 2%;
+	border: 1px solid #2F4F4F;
+	border-radius: 15px 50px;
+}
+
+.about {
+	padding: 2%;
+	border: 1px solid #2F4F4F;
+	border-radius: 10px;
+}
+
+p:first-child {
+	font-style: italic;
+}
+
+li {
+	list-style: none;
+}
+
+li span {
+	font-weight: bold;
+}
